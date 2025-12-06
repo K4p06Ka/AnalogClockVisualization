@@ -1,6 +1,6 @@
 # Analog Clock Simulation Mykyta Korobko 240201342
 
-
+github: https://github.com/K4p06Ka/AnalogClockVisualization
 A Java analog clock application that displays real-time system time using Swing graphics and OOP principles.## Project Overview
 
 This project implements a functional analog clock with hour, minute, and second hands that update continuously. It was built as part of a Computer Engineering course to demonstrate object-oriented programming concepts including inheritance, encapsulation, polymorphism, and composition.The clock displays the current system time on a traditional circular clock face with numeric hour markings from 1 to 12. All three hands move smoothly to reflect the actual time, and the display updates automatically every second without requiring any user interaction.## Project Structure
